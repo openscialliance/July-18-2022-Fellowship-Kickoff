@@ -1,5 +1,7 @@
 # UGA Open Science Fellows 2022-2023 Kickoff
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/openscialliance/July-18-2022-Fellowship-Kickoff/issues/HEAD)
+
 Meeting materials for the inaugural UGA Open Science Fellowship program.
 
 ### Agenda

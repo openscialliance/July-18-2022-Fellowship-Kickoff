@@ -12,7 +12,8 @@ Meeting materials for the inaugural UGA Open Science Fellowship program.
 
 11:15 - 11:50: Presentations by Fellows on their own and interests in Open Science
  - 5 min each
-.
+
+
 11:50 - 12:05: Support and Opportunities (Prof. Nicole Lazar, PSU)
  - Carpentries
  - Outreach
